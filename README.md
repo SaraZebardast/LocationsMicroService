@@ -1,6 +1,6 @@
 # LocationsMicroService
 
-A .NET microservice for managing location data (e.g., cities, addresses, coordinates).  
+A .NET microservice for managing location data (e.g., cities, Countries, etc).  
 Supports CRUD operations and can be integrated into larger systems.
 
 ---
