@@ -1,0 +1,12 @@
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/bin/Debug/net8.0/Locations.ServiceDefaults.deps.json
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/bin/Debug/net8.0/Locations.ServiceDefaults.dll
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/bin/Debug/net8.0/Locations.ServiceDefaults.pdb
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.AssemblyInfo.cs
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.dll
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/refint/Locations.ServiceDefaults.dll
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/Locations.ServiceDefaults.pdb
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.ServiceDefaults/obj/Debug/net8.0/ref/Locations.ServiceDefaults.dll
