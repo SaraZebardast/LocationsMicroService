@@ -13,3 +13,4 @@
 /Users/sarazebardast/Desktop/CTIS465/Locations/Locations.APP/obj/Debug/net8.0/refint/Locations.APP.dll
 /Users/sarazebardast/Desktop/CTIS465/Locations/Locations.APP/obj/Debug/net8.0/Locations.APP.pdb
 /Users/sarazebardast/Desktop/CTIS465/Locations/Locations.APP/obj/Debug/net8.0/ref/Locations.APP.dll
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.APP/obj/Debug/net8.0/Locations.APP.sourcelink.json

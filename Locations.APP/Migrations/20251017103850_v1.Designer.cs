@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Locations.APP.Migrations
 {
     [DbContext(typeof(LocationsDb))]
-    [Migration("20251014162350_v1")]
+    [Migration("20251017103850_v1")]
     partial class v1
     {
         /// <inheritdoc />
@@ -18,6 +18,33 @@ namespace Locations.APP.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.20");
+
+            modelBuilder.Entity("Locations.APP.Domain.City", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("CityName")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("CountryId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Guid")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CityName")
+                        .IsUnique();
+
+                    b.HasIndex("CountryId");
+
+                    b.ToTable("Cities");
+                });
 
             modelBuilder.Entity("Locations.APP.Domain.Country", b =>
                 {
@@ -39,6 +66,17 @@ namespace Locations.APP.Migrations
                         .IsUnique();
 
                     b.ToTable("Countries");
+                });
+
+            modelBuilder.Entity("Locations.APP.Domain.City", b =>
+                {
+                    b.HasOne("Locations.APP.Domain.Country", "Country")
+                        .WithMany()
+                        .HasForeignKey("CountryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Country");
                 });
 #pragma warning restore 612, 618
         }
