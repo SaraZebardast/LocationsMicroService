@@ -36,6 +36,7 @@ public class CityCreateHandler : ServiceBase, IRequestHandler<CityCreateRequest,
         {
             CityName = request.CityName.Trim(),
             CountryId = request.CountryId,
+            Guid = Guid.NewGuid().ToString()
         };
         
         _locationsDb.Cities.Add(entity);

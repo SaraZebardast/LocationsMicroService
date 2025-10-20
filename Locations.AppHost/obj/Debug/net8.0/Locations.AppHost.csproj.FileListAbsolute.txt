@@ -120,3 +120,4 @@
 /Users/sarazebardast/Desktop/CTIS465/Locations/Locations.AppHost/obj/Debug/net8.0/Locations.AppHost.pdb
 /Users/sarazebardast/Desktop/CTIS465/Locations/Locations.AppHost/obj/Debug/net8.0/Locations.AppHost.genruntimeconfig.cache
 /Users/sarazebardast/Desktop/CTIS465/Locations/Locations.AppHost/obj/Debug/net8.0/ref/Locations.AppHost.dll
+/Users/sarazebardast/Desktop/CTIS465/Locations/Locations.AppHost/obj/Debug/net8.0/Locations.AppHost.sourcelink.json

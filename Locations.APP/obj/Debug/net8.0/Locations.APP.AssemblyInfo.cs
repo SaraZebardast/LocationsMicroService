@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Locations.APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c3afedc251a14ac964fc7549fd5549234dcc3de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c074108b536ae1e80ed6aa50bf5ea18fc0c3b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Locations.APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Locations.APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

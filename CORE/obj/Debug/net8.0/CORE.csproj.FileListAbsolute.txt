@@ -9,3 +9,4 @@
 /Users/sarazebardast/Desktop/CTIS465/Locations/CORE/obj/Debug/net8.0/refint/CORE.dll
 /Users/sarazebardast/Desktop/CTIS465/Locations/CORE/obj/Debug/net8.0/CORE.pdb
 /Users/sarazebardast/Desktop/CTIS465/Locations/CORE/obj/Debug/net8.0/ref/CORE.dll
+/Users/sarazebardast/Desktop/CTIS465/Locations/CORE/obj/Debug/net8.0/CORE.sourcelink.json
